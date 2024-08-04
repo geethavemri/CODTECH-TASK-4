@@ -12,7 +12,7 @@ Mentor:Muzammil
 
 Overview of the Project:
 
-Project: E COMMERCE WEBSITE
+Project: E-COMMERCE WEBSITE
 
 ![Screenshot 2024-08-04 142911 2](https://github.com/user-attachments/assets/32f9d335-d062-4f9e-83e1-64c7e55260a9)
 
